@@ -41,22 +41,6 @@ ROC-AUC	0.85+ (Good discrimination ability)
 Note: Accuracy alone is misleading due to class imbalance.
 We focus on improving recall & ROC-AUC for default prediction.
 
-📈 ROC Curve Example
-
-(Insert image later if needed — I can provide the plot file as well)
-
-📂 Project Structure
-Credit-Default-Prediction-ML/
-│── data/
-│   └── GiveMeSomeCredit.csv
-│── notebooks/
-│   └── pro2.ipynb
-│── models/
-│   └── best_model.pkl  (optional)
-│── README.md
-│── requirements.txt
-│── .gitignore
-
 🛠️ Technologies Used
 Tool	Purpose
 Python	Programming
